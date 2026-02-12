@@ -1,7 +1,5 @@
 <!-- 
 📝 TODO: Customize this README by:
-- Updating the LinkedIn URL (line 48) with your actual LinkedIn profile
-- Updating the Email address (line 49) with your actual email
 - Adding/removing technologies based on what you know
 - Adding your projects and experience as you build them
 -->
@@ -45,8 +43,8 @@ I'm eager to join a team where I can:
 
 I'm always open to new opportunities, collaborations, or just a friendly chat about tech!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/enzo-de-aguiar-amorim-781593206)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:enzo.aguiar@hotmail.com)
 
 ---
 
