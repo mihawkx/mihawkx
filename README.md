@@ -4,7 +4,7 @@
 - Adding your projects and experience as you build them
 -->
 
-# 👋 Hello, I'm mihawkx!
+# 👋 Hello, I'm Enzo Amorim!
 
 ## 🎓 About Me
 I'm a passionate student on a journey to become a professional developer. I believe in learning by doing and am constantly expanding my skills through hands-on projects and exploring new technologies.
