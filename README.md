@@ -27,10 +27,6 @@ I'm a passionate student on a journey to become a professional developer. I beli
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-## 📊 GitHub Stats
-
-![mihawkx's GitHub stats](https://github-readme-stats.vercel.app/api?username=mihawkx&show_icons=true&theme=radical)
-
 ## 🎯 What I'm Looking For
 
 I'm eager to join a team where I can:
