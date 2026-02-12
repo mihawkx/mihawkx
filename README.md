@@ -1,3 +1,11 @@
+<!-- 
+📝 TODO: Customize this README by:
+- Updating the LinkedIn URL (line 40) with your actual LinkedIn profile
+- Updating the Email address (line 41) with your actual email
+- Adding/removing technologies based on what you know
+- Adding your projects and experience as you build them
+-->
+
 # 👋 Hello, I'm mihawkx!
 
 ## 🎓 About Me
